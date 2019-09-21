@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">LoginI</string>
+
+    <string name="btnChooseFile">Buscar Archivo</string>
+    <string name="btnUpload">Cargar Archivo</string>
+    <string name="lblFileName">Nombre de archivo</string>
+    <string name="btnShow">Mostrar</string>
+    <string name="msgNotFileSelected">Archivo no seleccionado</string>
+    <string name="msgSuccess">Archivo subido correctamente</string>
+    <string name="msgInProgress">Carga en proceso</string>
+
+</resources>

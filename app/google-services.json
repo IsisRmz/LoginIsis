@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "736760319549",
+    "firebase_url": "https://logini-2f248.firebaseio.com",
+    "project_id": "logini-2f248",
+    "storage_bucket": "logini-2f248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736760319549:android:aa010c2939a2d66eb36454",
+        "android_client_info": {
+          "package_name": "com.example.chani.logini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736760319549-djnidepdbe1siqs0it25cu1133cmpsb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chani.logini",
+            "certificate_hash": "f975185cfbe6c0a1b427ac75b136f0b96183cb6b"
+          }
+        },
+        {
+          "client_id": "736760319549-vdtlcuina4r0hcfj72eshfvrb9d0gs4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqlf-woVIQI8goTd6J19xcnnqUWmiwCJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736760319549-vdtlcuina4r0hcfj72eshfvrb9d0gs4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

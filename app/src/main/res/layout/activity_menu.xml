@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Menu">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="69dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="INICIO CORRECTAMENTE"
+        android:textSize="30dp"/>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="72dp" />
+
+    <TextView
+        android:id="@+id/lblCorreo"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:gravity="center"
+        android:text="TextView" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="74dp" />
+
+    <Button
+        android:id="@+id/btnMulti"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irMultimedia"
+        android:text="MULTIMEDIA" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <Button
+        android:id="@+id/btnBaseDatos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="irBaseDatos"
+        android:text="BASE DE DATOS" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <Button
+        android:id="@+id/btnCerrarSesion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="cerrarSesion"
+        android:text="CERRAR SESION" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="36dp" />
+
+    <Button
+        android:id="@+id/btnStorage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="storage"
+        android:text="STORAGE" />
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginI</string>
+
+    <string name="btnChooseFile">Choose File</string>
+    <string name="btnUpload">Upload</string>
+    <string name="lblFileName">File Name</string>
+    <string name="btnShow">Show</string>
+    <string name="msgNotFileSelected">No file selected</string>
+    <string name="msgSuccess">Upload Successful </string>
+    <string name="msgInProgress">Upload in progress</string>
+
+</resources>
